@@ -1,0 +1,2 @@
+D:\GitProgect\NewWoodoku\Woodoku\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\GitProgect\NewWoodoku\Woodoku\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
